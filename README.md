@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Dibyajyotid/Dibyajyotid/main/assets/database.png" width="80" />
 
-<!-- Typing SVG Header -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Dibyajyotid/Dibyajyotid/main/assets/banner.svg" width="100%" />
 </div>
