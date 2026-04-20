@@ -19,16 +19,15 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: "Your Name"
+name: "Dibyajyoti Das"
 role: "Backend Engineer"
-location: "Your City, Country 🌍"
+location: "Jorhat, India 🌍"
 focus:
   - "Designing scalable REST & GraphQL APIs"
   - "Microservices & distributed systems"
   - "Database optimization & caching strategies"
 currently_learning: ["Rust", "Kafka", "Kubernetes"]
-ask_me_about: ["System Design", "Node.js", "PostgreSQL", "Docker"]
-fun_fact: "I debug with coffee and deploy on Fridays (just kidding... mostly)"
+fun_fact: "I like to be busy in doing nothing"
 ```
 
 ---
