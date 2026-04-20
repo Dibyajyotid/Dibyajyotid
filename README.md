@@ -1,9 +1,11 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/icon.png" width="80" />
+<img src="https://raw.githubusercontent.com/Dibyajyotid/Dibyajyoti/main/assets/icon.png" width="80" />
 
 <!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Dibyajyoti+Das+%F0%9F%91%8B;Backend+Engineer+%7C+API+Architect;Building+scalable+systems+%F0%9F%97%84%EF%B8%8F)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Dibyajyoti+Das+%F0%9F%91%8B;Backend+Engineer+%7C+API+Architect;Building+scalable+systems)](https://git.io/typing-svg)
+
+![Database](https://img.shields.io/badge/Backend-Database%20Engineer-0d6efd?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <p align="center">
   <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
