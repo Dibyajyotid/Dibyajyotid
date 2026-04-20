@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Dibyajyoti+Das+%F0%9F%91%8B;Backend+Engineer+%7C+API+Architect;Building+scalable+systems+%F0%9F%93%98)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Dibyajyoti+Das+%F0%9F%91%8B;Backend+Engineer+%7C+API+Architect;Building+scalable+systems+%F0%9F%93%84)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
