@@ -20,6 +20,7 @@
 ```yaml
 name: "Dibyajyoti Das"
 role: "Backend Engineer"
+working at: "CSIR-NEIST Jorhat"
 location: "Jorhat, India 🌍"
 focus:
   - "Designing scalable REST & GraphQL APIs"
