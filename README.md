@@ -102,6 +102,8 @@ fun_fact: "I like to be busy in doing nothing"
 <div align="center">
 
 ![snake gif](https://github.com/Dibyajyotid/Dibyajyotid/blob/output/github-contribution-grid-snake-dark.svg)
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v3.4.1
 
 </div>
 
