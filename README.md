@@ -81,9 +81,9 @@ fun_fact: "I like to be busy in doing nothing"
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Dibyajyotid&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Dibyajyotid&theme=radical" alt="github-trophies" />
+  </a>
 </div>
 
 ---
