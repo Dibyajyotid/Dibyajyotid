@@ -1,16 +1,15 @@
 <div align="center">
 
 <!-- Typing SVG Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+%5BYourName%5D+%F0%9F%91%8B;Backend+Engineer+%7C+API+Architect;Building+scalable+systems+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+%5BDibyajyoti+Das%5D+%F0%9F%91%8B;Backend+Engineer+%7C+API+Architect;Building+scalable+systems+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /></a>
-  <a href="mailto:you@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:dibyajyotid358@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://yourportfolio.dev"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=6366f1&style=flat" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=Dibyajyotid&label=Profile+Views&color=6366f1&style=flat" alt="profile views" />
 
 </div>
 
