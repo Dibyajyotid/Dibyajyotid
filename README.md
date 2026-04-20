@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Dibyajyotid/Dibyajyoti/main/assets/icon.png" width="80" />
+<img src="https://raw.githubusercontent.com/Dibyajyotid/Dibyajyoti/main/assets/database.png" width="80" />
 
 <!-- Typing SVG Header -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Dibyajyoti+Das+%F0%9F%91%8B;Backend+Engineer+%7C+API+Architect;Building+scalable+systems)](https://git.io/typing-svg)
