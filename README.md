@@ -45,7 +45,7 @@ fun_fact: "I like to be busy doing nothing 😄"
 ## 🧑‍💻 About Me
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Dibyajyotid/Dibyajyotid/main/assets/about_banner.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Dibyajyotid/Dibyajyotid/main/assets/about_me_banner_card.svg" width="100%" />
 </div>
 
 ## 🛠️ Tech Stack
