@@ -21,17 +21,23 @@
 
 ## 🧑‍💻 About Me
 
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+
 ```yaml
 name: "Dibyajyoti Das"
 role: "Backend Engineer"
-working at: "CSIR-NEIST Jorhat"
-location: "Jorhat, India 🌍"
+working_at: "CSIR-NEIST Jorhat 🏛️"
+location: "Jorhat, India 🇮🇳"
 focus:
-  - "Designing scalable REST & GraphQL APIs"
+  - "Scalable REST & GraphQL APIs"
   - "Microservices & distributed systems"
-  - "Database optimization & caching strategies"
-currently_learning: ["Rust", "Kafka", "Kubernetes", "System Design"]
-fun_fact: "I like to be busy in doing nothing"
+  - "Database optimization & caching"
+currently_learning:
+  - Rust 🦀
+  - Kafka 📨
+  - Kubernetes ☸️
+  - System Design 🏗️
+fun_fact: "I like to be busy doing nothing 😄"
 ```
 
 ---
