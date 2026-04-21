@@ -67,7 +67,7 @@
     <text x="28" y="250" font-family="'Segoe UI',Arial,sans-serif" font-size="10" fill="#555f6e" font-weight="600">LANGUAGES</text>
     <!-- Lang pills -->
     <rect x="28"  y="256" width="56" height="18" rx="5" fill="#1f2937" stroke="#374151" stroke-width="0.5"/>
-    <text x="56"  y="269" font-family="'Segoe UI',Arial,sans-serif" font-size="10" fill="#a3b3c9" text-anchor="middle">Python</text>
+    <text x="56"  y="269" font-family="'Segoe UI',Arial,sans-serif" font-size="10" fill="#a3b3c9" text-anchor="middle">PHP</text>
     <rect x="90"  y="256" width="40" height="18" rx="5" fill="#1f2937" stroke="#374151" stroke-width="0.5"/>
     <text x="110" y="269" font-family="'Segoe UI',Arial,sans-serif" font-size="10" fill="#a3b3c9" text-anchor="middle">Go</text>
     <rect x="136" y="256" width="56" height="18" rx="5" fill="#1f2937" stroke="#374151" stroke-width="0.5"/>
@@ -77,16 +77,16 @@
     <rect x="280" y="256" width="46" height="18" rx="5" fill="#1f2937" stroke="#374151" stroke-width="0.5"/>
     <text x="303" y="269" font-family="'Segoe UI',Arial,sans-serif" font-size="10" fill="#a3b3c9" text-anchor="middle">Java</text>
     <rect x="332" y="256" width="46" height="18" rx="5" fill="#1f2937" stroke="#374151" stroke-width="0.5"/>
-    <text x="355" y="269" font-family="'Segoe UI',Arial,sans-serif" font-size="10" fill="#a3b3c9" text-anchor="middle">Bash</text>
+    <text x="355" y="269" font-family="'Segoe UI',Arial,sans-serif" font-size="10" fill="#a3b3c9" text-anchor="middle">C</text>
 
     <!-- Frameworks label -->
     <text x="28" y="292" font-family="'Segoe UI',Arial,sans-serif" font-size="10" fill="#555f6e" font-weight="600">FRAMEWORKS</text>
     <rect x="28"  y="298" width="58" height="18" rx="5" fill="#1f2937" stroke="#374151" stroke-width="0.5"/>
-    <text x="57"  y="311" font-family="'Segoe UI',Arial,sans-serif" font-size="10" fill="#a3b3c9" text-anchor="middle">FastAPI</text>
+    <text x="57"  y="311" font-family="'Segoe UI',Arial,sans-serif" font-size="10" fill="#a3b3c9" text-anchor="middle">Laravel</text>
     <rect x="92"  y="298" width="74" height="18" rx="5" fill="#1f2937" stroke="#374151" stroke-width="0.5"/>
     <text x="129" y="311" font-family="'Segoe UI',Arial,sans-serif" font-size="10" fill="#a3b3c9" text-anchor="middle">Express.js</text>
     <rect x="172" y="298" width="56" height="18" rx="5" fill="#1f2937" stroke="#374151" stroke-width="0.5"/>
-    <text x="200" y="311" font-family="'Segoe UI',Arial,sans-serif" font-size="10" fill="#a3b3c9" text-anchor="middle">Django</text>
+    <text x="200" y="311" font-family="'Segoe UI',Arial,sans-serif" font-size="10" fill="#a3b3c9" text-anchor="middle">SpringBoot</text>
     <rect x="234" y="298" width="54" height="18" rx="5" fill="#1f2937" stroke="#374151" stroke-width="0.5"/>
     <text x="261" y="311" font-family="'Segoe UI',Arial,sans-serif" font-size="10" fill="#a3b3c9" text-anchor="middle">NestJS</text>
     <rect x="294" y="298" width="62" height="18" rx="5" fill="#1f2937" stroke="#374151" stroke-width="0.5"/>
@@ -104,12 +104,6 @@
     <text x="261" y="353" font-family="'Segoe UI',Arial,sans-serif" font-size="10" fill="#a3b3c9" text-anchor="middle">MySQL</text>
     <rect x="292" y="340" width="52" height="18" rx="5" fill="#1f2937" stroke="#374151" stroke-width="0.5"/>
     <text x="318" y="353" font-family="'Segoe UI',Arial,sans-serif" font-size="10" fill="#a3b3c9" text-anchor="middle">Docker</text>
-    <rect x="350" y="340" width="72" height="18" rx="5" fill="#1f2937" stroke="#374151" stroke-width="0.5"/>
-    <text x="386" y="353" font-family="'Segoe UI',Arial,sans-serif" font-size="10" fill="#a3b3c9" text-anchor="middle">Kubernetes</text>
-    <rect x="428" y="340" width="40" height="18" rx="5" fill="#1f2937" stroke="#374151" stroke-width="0.5"/>
-    <text x="448" y="353" font-family="'Segoe UI',Arial,sans-serif" font-size="10" fill="#a3b3c9" text-anchor="middle">AWS</text>
-    <rect x="474" y="340" width="52" height="18" rx="5" fill="#1f2937" stroke="#374151" stroke-width="0.5"/>
-    <text x="500" y="353" font-family="'Segoe UI',Arial,sans-serif" font-size="10" fill="#a3b3c9" text-anchor="middle">Nginx</text>
     <rect x="532" y="340" width="46" height="18" rx="5" fill="#1f2937" stroke="#374151" stroke-width="0.5"/>
     <text x="555" y="353" font-family="'Segoe UI',Arial,sans-serif" font-size="10" fill="#a3b3c9" text-anchor="middle">Linux</text>
 
