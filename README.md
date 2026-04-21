@@ -1,9 +1,7 @@
 <div align="center">
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Dibyajyotid/Dibyajyotid/main/assets/banner.svg" width="100%" />
-</div>
+
 
 ![Database](https://img.shields.io/badge/Backend-Database%20Engineer-0d6efd?style=for-the-badge&logo=postgresql&logoColor=white)
 
